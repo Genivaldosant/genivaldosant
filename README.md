@@ -80,9 +80,10 @@ src="https://devicon-website.vercel.app/api/html5/original.svg"
 <br/>
 <br/>
 
-### 📊 Estatísticas'
+### 📊 Estatísticas
 
-<img 
+<p>
+    <img 
     align="left" 
     alt="GitHub Stats"
     height="200" 
@@ -96,3 +97,4 @@ src="https://devicon-website.vercel.app/api/html5/original.svg"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbs-333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
+</p>
