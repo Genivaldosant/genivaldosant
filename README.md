@@ -26,14 +26,14 @@ por tecnologia e sempre tento buscar aprimorar meus conhecimentos.
         <img 
             alt="Seguidores" 
             title="Siga-me no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gbs-333?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/genivaldosant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/gbs-333?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gbs-333?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/genivaldosant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
@@ -88,13 +88,13 @@ src="https://devicon-website.vercel.app/api/html5/original.svg"
     alt="GitHub Stats"
     height="160em"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gbs-333&show_icons=true&theme=tokyonight&include_allcommits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=genivaldosant&show_icons=true&theme=tokyonight&include_allcommits=true&locale=pt-br"
 />
 <img 
     align="left" 
     alt="GitHub Stats"
     height="160em"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbs-333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=genivaldosant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
 
