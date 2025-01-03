@@ -80,7 +80,7 @@ src="https://devicon-website.vercel.app/api/html5/original.svg"
 <br/>
 <br/>
 
-### 📊 Estatísticas'
+### 📊 Estatísticas
 
 <img 
     align="left" 
