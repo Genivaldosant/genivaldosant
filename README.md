@@ -15,7 +15,7 @@ por tecnologia e sempre tento buscar aprimorar meus conhecimentos.
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/genivaldo-santos-2450a5311/">
         <img 
             alt="Linkedin" 
             title="Siga-me no Linkedin" 
