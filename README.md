@@ -60,6 +60,13 @@ src="https://devicon-website.vercel.app/api/html5/original.svg"
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/css3/original.svg"
 />
+<img 
+    align="left" 
+    alt="GIT"
+    title="GIT" 
+    width="30px" 
+    src="https://devicon-website.vercel.app/api/javascript/plain.svg"
+/>
 <img
     align="left" 
     alt="PYTHON"
