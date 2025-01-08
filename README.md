@@ -4,7 +4,7 @@
 
 Olá! Me chamo Genivaldo dos Santos Barros Filho, tenho 17 anos e sou natural do Piauí.
 Estou atualmente cursando o ensino médio no IFMA, com o curso técnico em cooperativismo. Além disso,
-atualmente também estou fazendo o curso FullStack Java na plataforma da ebac. Sou apaixonando
+atualmente também estou fazendo o curso FullStack Java na plataforma da ebac. Sou apaixonado
 por tecnologia e sempre tento buscar aprimorar meus conhecimentos. 
 
 <p align="left">
