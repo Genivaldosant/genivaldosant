@@ -83,6 +83,14 @@ src="https://devicon-website.vercel.app/api/html5/original.svg"
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/git/original.svg"
 />
+<img 
+    align="left" 
+    alt="JQUERY"
+    title="JQUERY" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/jquery/original.svg"
+/>
 
 <br/>
 <br/>
